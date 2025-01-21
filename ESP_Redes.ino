@@ -7,8 +7,8 @@
 #define pinBUTTON 12
 
 // Configuração Wi-fi
-const char* ssid = "2.4G";
-const char* password = "mieG3201";
+const char* ssid = "Nome";
+const char* password = "Senha";
 
 // Configuração MQTT
 const char* Server_MQTT = "6445f45591134ef191723c599d033f14.s1.eu.hivemq.cloud";
